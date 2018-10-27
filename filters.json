@@ -1,0 +1,28 @@
+{
+    'school_type': ['public', 'private'], 
+
+    'student_demographics': ['numNatAm', 'numAsianPI', 'numHispanic', 'numBlack', 'numWhite', 'numHawPI'],
+
+    'acs5_detailed_ed_attain25yrs': ["Less than high school diploma", "High school graduate, GED, or alternative", "Some college or associate's degree", "Bachelor's degree or higher"], 
+
+    'ade_enrollment_subgroup': ['ELL Students', 'All Students', 'Free and Reduced Lunch', 'Students With Disabilities'], 
+
+    'acs5_detailed_field_of_bachelor_degree': ["Science and Engineering!!Computers, Mathematics and Statistics", "Science and Engineering!!Biological, Agricultural, and Environmental Sciences", "Science and Engineering!!Physical and Related Sciences", "Science and Engineering!!Psychology", "Science and Engineering!!Social Sciences", "Science and Engineering!!Engineering", "Science and Engineering!!Multidisciplinary Studies", "Science and Engineering Related Fields", "Business", "Education", "Arts, Humanities, and Other!!Literature and Languages", "Arts, Humanities, and Other!!Liberal Arts and History", "Arts, Humanities, and Other!!Visual and Performing Arts", "Arts, Humanities, and Other!!Communications", "Arts, Humanities, and Other!!Other"],
+
+    'acs5_ed_attain_by_employment25yrs': ["In labor force:", "In labor force:!!In Armed Forces", "In labor force:!!Civilian:", "In labor force:!!Civilian:!!Employed", "In labor force:!!Civilian:!!Unemployed", "Not in labor force"],
+
+    'free_reduced_lunch': ['numReducedLunch', 'numFreeLunch'], 
+
+    'acs5_household_income_by_race': ["Less than $10,000", "$10,000 to $14,999", "$15,000 to $19,999", "$20,000 to $24,999", "$25,000 to $29,999", "$30,000 to $34,999", "$35,000 to $39,999", "$40,000 to $44,999", "$45,000 to $49,999", "$50,000 to $59,999", "$60,000 to $74,999", "$75,000 to $99,999", "$100,000 to $124,999", "$125,000 to $149,999", "$150,000 to $199,999", "$200,000 or more"], 
+
+    'median_household_income': ["Less than $25,000", "$25,000 to $50,000", "$100,000 or more"], 
+
+    'acs5_place_of_birth_by_citizenship': ["Native!!Born in state of residence", "Native!!Born in other state in the United States!!Northeast", "Native!!Born in other state in the United States!!Midwest", "Native!!Born in other state in the United States!!South", "Native!!Born in other state in the United States!!West"], 
+
+    'school_location': ['City', 'Rural', 'Town', 'Suburb'], 
+
+    'acs5_population_age_by_race': [], 
+
+    'acs5_school_enrollment': ['Kindergarten through Grade 12']
+
+}
